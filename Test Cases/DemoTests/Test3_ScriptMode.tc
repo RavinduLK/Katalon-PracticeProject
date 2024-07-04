@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a Script Mode Test</description>
+   <name>Test3_ScriptMode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>576e394e-fc0c-49e8-84c5-5e3614f13d9b</testCaseGuid>
+</TestCaseEntity>

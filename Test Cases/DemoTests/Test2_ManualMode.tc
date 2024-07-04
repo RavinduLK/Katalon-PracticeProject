@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a Manual Mode Test Case</description>
+   <name>Test2_ManualMode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>62e6e1eb-0e2a-4a46-a1cf-ebe920bfad25</testCaseGuid>
+</TestCaseEntity>
